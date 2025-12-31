@@ -8,4 +8,7 @@ sentence-transformers
 faiss-cpu
 chromadb
 langchain-openai
-dotenv
+jinja2
+python-multipart
+pinecone
+python-dotenv
